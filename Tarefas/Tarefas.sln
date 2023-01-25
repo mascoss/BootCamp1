@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EADCE85A-AB2A-4E90-AAD0-0B1F4179EA77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarefas.Web", "src\Tarefas.Web\Tarefas.Web.csproj", "{A911507C-FAD9-4A5D-B18A-AB01E7009949}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A911507C-FAD9-4A5D-B18A-AB01E7009949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A911507C-FAD9-4A5D-B18A-AB01E7009949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A911507C-FAD9-4A5D-B18A-AB01E7009949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A911507C-FAD9-4A5D-B18A-AB01E7009949}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A911507C-FAD9-4A5D-B18A-AB01E7009949} = {EADCE85A-AB2A-4E90-AAD0-0B1F4179EA77}
+	EndGlobalSection
+EndGlobal
