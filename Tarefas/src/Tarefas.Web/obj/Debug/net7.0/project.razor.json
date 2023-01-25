@@ -18655,6 +18655,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/decom/Documentos/Treinamento/BootCamp1/Tarefas/src/Tarefas.Web/Views/Tarefas/Details.cshtml",
+      "TargetPath": "Views\\Tarefas\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/decom/Documentos/Treinamento/BootCamp1/Tarefas/src/Tarefas.Web/Views/Tarefas/Index.cshtml",
+      "TargetPath": "Views\\Tarefas\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/decom/Documentos/Treinamento/BootCamp1/Tarefas/src/Tarefas.Web/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -18667,11 +18677,6 @@
     {
       "FilePath": "/home/decom/Documentos/Treinamento/BootCamp1/Tarefas/src/Tarefas.Web/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/decom/Documentos/Treinamento/BootCamp1/Tarefas/src/Tarefas.Web/Views/Tarefas/index.cshtml",
-      "TargetPath": "Views\\Tarefas\\index.cshtml",
       "FileKind": "mvc"
     },
     {
